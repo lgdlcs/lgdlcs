@@ -9,6 +9,7 @@ Building side projects, shipping fast, learning by doing.
 🎬 [snipvid](https://github.com/lgdlcs/snipvid) — Auto photo-to-video editor for events
 🎿 [ski-platform](https://github.com/lgdlcs/ski-platform) — Ski resort conditions & weather aggregator
 🥙 [meat-grill](https://github.com/lgdlcs/meat-grill) — Restaurant showcase website
+🪂 [aero-bi](https://github.com/lgdlcs/aero-bi) — Paragliding & speed riding school website
 
 #### Stack
 
