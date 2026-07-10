@@ -8,11 +8,9 @@ Shipping fast, building in public, learning by doing.
 #### What I'm working on
 
 💻 [alt-tab-studio](https://lgdlcs.github.io/alt-tab-studio/) — Digital studio · showcase sites & AI automation for pros
-🔎 [complaintscout](https://lgdlcs.github.io/complaintscout/) — Find the people already asking for your product · 25 warm leads in 48h
+🔎 [pronolino.com](https://pronolino.com/) — Friends and family predict the date, weight and height. Every guess becomes a little character on your living wall.
 🪂 [aero-bi](https://lgdlcs.github.io/aero-bi/) — Paragliding & speed riding school website *(client)*
-✨ [parapente-demo](https://lgdlcs.github.io/parapente-demo/) — 5 design directions for a paragliding showcase site
-🎬 [snipvid](https://github.com/lgdlcs/snipvid) — Auto photo-to-video editor for events
-🎿 [ski-platform](https://github.com/lgdlcs/ski-platform) — Perfect Day Score · ski resort conditions for the French Alps
+
 
 #### Stack
 
